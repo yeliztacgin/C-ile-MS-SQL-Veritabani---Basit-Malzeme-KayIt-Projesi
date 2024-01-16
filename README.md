@@ -1,0 +1,1 @@
+# C-ile-MS-SQL-Veritabani---Basit-Malzeme-KayIt-Projesi
